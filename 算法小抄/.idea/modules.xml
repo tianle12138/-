@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02动态规划/02动态规划.iml" filepath="$PROJECT_DIR$/02动态规划/02动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03回文串链表反转/03回文串链表反转.iml" filepath="$PROJECT_DIR$/03回文串链表反转/03回文串链表反转.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03数据结构(二叉树等)/03数据结构(二叉树等).iml" filepath="$PROJECT_DIR$/03数据结构(二叉树等)/03数据结构(二叉树等).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04算法思维/04算法思维.iml" filepath="$PROJECT_DIR$/04算法思维/04算法思维.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05高频面试/05高频面试.iml" filepath="$PROJECT_DIR$/05高频面试/05高频面试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/力扣/力扣.iml" filepath="$PROJECT_DIR$/力扣/力扣.iml" />
+    </modules>
+  </component>
+</project>

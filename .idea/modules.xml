@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/算法小抄/02动态规划/02动态规划.iml" filepath="$PROJECT_DIR$/算法小抄/02动态规划/02动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法小抄/03回文串链表反转/03回文串链表反转.iml" filepath="$PROJECT_DIR$/算法小抄/03回文串链表反转/03回文串链表反转.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法小抄/03数据结构(二叉树等)/03数据结构(二叉树等).iml" filepath="$PROJECT_DIR$/算法小抄/03数据结构(二叉树等)/03数据结构(二叉树等).iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法小抄/04算法思维/04算法思维.iml" filepath="$PROJECT_DIR$/算法小抄/04算法思维/04算法思维.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4399/4399.iml" filepath="$PROJECT_DIR$/4399/4399.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alibaba/Alibaba.iml" filepath="$PROJECT_DIR$/Alibaba/Alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidu/baidu.iml" filepath="$PROJECT_DIR$/baidu/baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomi/xiaomi.iml" filepath="$PROJECT_DIR$/xiaomi/xiaomi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/个人测试/个人测试.iml" filepath="$PROJECT_DIR$/个人测试/个人测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/力扣/力扣.iml" filepath="$PROJECT_DIR$/力扣/力扣.iml" />
+      <module fileurl="file://$PROJECT_DIR$/小米第一场笔试/小米第一场笔试.iml" filepath="$PROJECT_DIR$/小米第一场笔试/小米第一场笔试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/牛客/牛客.iml" filepath="$PROJECT_DIR$/牛客/牛客.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试经典/程序员面试经典.iml" filepath="$PROJECT_DIR$/程序员面试经典/程序员面试经典.iml" />
+    </modules>
+  </component>
+</project>
