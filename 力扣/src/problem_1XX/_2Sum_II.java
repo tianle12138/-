@@ -1,6 +1,4 @@
-package poblem_1XX;
-
-import java.lang.annotation.ElementType;
+package problem_1XX;
 
 public class _2Sum_II {
     public int[] twoSum(int[] numbers, int target) {

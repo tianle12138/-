@@ -1,4 +1,4 @@
-package poblem_1XX;
+package problem_1XX;
 
 
 public class _189 {
