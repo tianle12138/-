@@ -4,6 +4,7 @@ public class FirstThread {
     public static void main(String[] args) throws InterruptedException, ExecutionException {
         Thread A = new Thread(()->{
             try {
+
                 Thread.sleep(1234);
             } catch (InterruptedException e) {
                 e.printStackTrace();
